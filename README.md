@@ -1,4 +1,5 @@
-# Data Science Bootcamp 
-Learning Data Science from scratch.
+# Data Science Bootcamp
 
-This repository will contain projects, notebooks, and exercises from my bootcamp.
+Student: Kazeem Adegbola
+
+Lesson 0.1 Completed
